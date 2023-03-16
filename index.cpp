@@ -69,6 +69,6 @@ for(int i=0;i<n;i++)
 }
 
 int main(){
-
+cout<<
 return 0;
 }
